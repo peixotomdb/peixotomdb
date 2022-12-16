@@ -11,7 +11,8 @@
 - 👨‍💻 Full Stack Web Developer
 - 🎉 I’m 22 years old
 - 🇵🇹 I’m from Portugal
-- 🌐 This is my <a href="http://example.com/" target="_blank">**[Website](https://www.peixotomdb.me)**</a>
+- 🌐 This is my **[Website](https://www.peixotomdb.me)**
+
 - **📬 [ Don't hesitate to contact me](https://www.peixotomdb.me)**
 
 
