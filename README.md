@@ -1,10 +1,11 @@
 ### Hi, I'm Luís Peixoto 👋
 
-<br>
 <picture>
   <source align="right" alt="GIF" width="300px" media="(prefers-color-scheme: dark)" srcset="https://www.peixotomdb.me/img/logo.png">
-  <img align="right" alt="GIF" width="300px" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://www.peixotomdb.me/img/logoblack.png">
+  <img align="right" alt="Logo" width="300px" alt="Logo" src="https://www.peixotomdb.me/img/logoblack.png">
 </picture>
+
+<br>
 
 
 - 👨‍💻 Full Stack Web Developer
