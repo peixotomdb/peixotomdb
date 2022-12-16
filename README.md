@@ -1,4 +1,3 @@
-<br>
 
 ### Hi, I'm Luís Peixoto 👋
 
