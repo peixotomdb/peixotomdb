@@ -1,26 +1,21 @@
 ### Hi, I'm Luís Peixoto 👋
 
-I'm 22 years old, live in Portugal and I am a web developer
-
-
-
+<br>
 <picture>
   <source align="right" alt="GIF" width="300px" media="(prefers-color-scheme: dark)" srcset="https://www.peixotomdb.me/img/logo.png">
   <img align="right" alt="GIF" width="300px" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://www.peixotomdb.me/img/logoblack.png">
 </picture>
 
+
+- 👨‍💻 Full Stack Web Developer
+- 🎉 I’m 22 years old
+- 🇵🇹 I’m from Portugal
+- 🌐 This is my **[Website](https://www.peixotomdb.me)**
+
+- **📬[Don't hesitate to contact me](https://www.peixotomdb.me)**
+
+
 <!--
-- 🔭 I’m currently working on backend development projects.
-- 🌱 I’m currently learning Go, Ruby on Rails, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
-- 👯 I’m willing to collaborate on building communitites, and research projects.
-- 📫 How to reach me: shubhamkrai123@gmail.com
-- 😄 Pronouns: He/Him.
-- **📫 Newsletter: [Join](https://relentless-hustler-6722.ck.page/410dad83c2)**
-
-- **Youtube: [Subscribe](https://www.youtube.com/channel/UC7-FIPYuGBxD5RzInWIXF4w)**
-
-
-
 
 
 
