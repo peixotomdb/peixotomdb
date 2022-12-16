@@ -12,7 +12,7 @@
 - 🇵🇹 I’m from Portugal
 - 🌐 This is my **[Website](https://www.peixotomdb.me)**
 
-- **📬[Don't hesitate to contact me](https://www.peixotomdb.me)**
+- **📬 [ Don't hesitate to contact me](https://www.peixotomdb.me)**
 
 
 <!--
