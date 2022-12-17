@@ -14,7 +14,7 @@
 - 🇵🇹 I’m from Portugal
 - 🌐 This is my **[Website](https://www.peixotomdb.me)**
 
-- **📬 [ Don't hesitate to contact me](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)**
+- **📬 [ Don't hesitate to contact me](mailto:peixotomdb@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
 
 <!--
