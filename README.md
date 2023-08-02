@@ -10,7 +10,7 @@
 
 
 - 👨‍💻 Full Stack Web Developer
-- 🎉 I’m 22 years old
+- 🎉 I’m 23 years old
 - 🇵🇹 I’m from Portugal
 - 🌐 This is my **[Website](https://www.peixotomdb.me)**
 
