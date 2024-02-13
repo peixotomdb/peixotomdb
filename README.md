@@ -12,7 +12,7 @@
 - 👨‍💻 Full Stack Developer
 - 🎉 I’m 24 years old
 - 🇵🇹 I’m from Portugal
-- 🌐 This is my **[Website]([https://www.peixotomdb.me](https://peixoto.vercel.app/))**
+- 🌐 This is my **[Website](https://peixoto.vercel.app/)**
 
 - **📬 [ Don't hesitate to contact me](mailto:peixotomdb@gmail.com?subject=[GitHub]%20Hey%20There%20👋)**
 
