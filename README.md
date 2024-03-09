@@ -20,7 +20,7 @@
 <br>
 
 
-![Views](https://github-views.deno.dev/api/badge/peixotomdb?style=classic)
+![Views](https://github-views.deno.dev/api/badge/peixotomdb?color=purple)
 
 <h3 align="left">Languages and Tools:</h3>
 
