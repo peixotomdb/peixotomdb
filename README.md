@@ -16,9 +16,11 @@
 
 - **📬 [ Don't hesitate to contact me](mailto:peixotomdb@gmail.com?subject=[GitHub]%20Hey%20There%20👋)**
 
-![Views](https://github-views.deno.dev/api/badge/peixotomdb?style=classic)
 
 <br>
+
+
+![Views](https://github-views.deno.dev/api/badge/peixotomdb?style=classic)
 
 <h3 align="left">Languages and Tools:</h3>
 
